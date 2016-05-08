@@ -1,4 +1,4 @@
-# Predicting-user-performance-based-on-pupil-size-using-random-forests
+# Predicting user performance based on pupil size using random forests
 R-Code for research study on user performance score using pupil size as predictors
 
 This R-code consists of two parts:
